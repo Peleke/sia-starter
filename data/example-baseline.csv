@@ -1,0 +1,11 @@
+group,arm,rep,score
+ticket-a,0,1,0.50
+ticket-a,0,2,0.56
+ticket-b,0,1,0.40
+ticket-b,0,2,0.38
+ticket-c,0,1,0.70
+ticket-c,0,2,0.74
+ticket-d,0,1,0.30
+ticket-d,0,2,0.33
+ticket-e,0,1,0.60
+ticket-e,0,2,0.55

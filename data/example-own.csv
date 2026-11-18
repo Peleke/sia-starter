@@ -1,0 +1,14 @@
+group,arm,rep,score,excluded
+ticket-a,0,1,0.50,0
+ticket-a,0,2,0.55,0
+ticket-a,1,1,0.65,0
+ticket-a,1,2,0.60,0
+ticket-b,0,1,0.40,0
+ticket-b,1,1,0.45,0
+ticket-c,0,1,0.70,0
+ticket-c,1,1,0.80,0
+ticket-d,0,1,0.30,0
+ticket-d,1,1,0.25,0
+ticket-e,0,1,0.60,0
+ticket-e,1,1,0.75,0
+ticket-f,0,1,0.55,0
