@@ -2,7 +2,7 @@
 
 Templates, a small analysis script and diagrams for **self-improving agents** (SIA): agents that get better from a signal, not from you editing the prompt.
 
-**What you get:** for one agent, a written answer to "is it learning, or am I?", the signal it should learn from, and a plan for the examples you'll measure it on. **Who it's for:** anyone who **owns** an agent and can see its settings, logs and history: a coding harness, a chat assistant, a framework app, a DSPy or Ax program, a no-code workflow. **Time:** about 30–60 minutes for one agent. **Not for** auditing an agent someone else runs; that needs access and judgment the templates can't supply. If that's what you need, get in touch (peleke.me · LinkedIn).
+**What you get:** for one agent, a written answer to "is it learning, or am I?", the signal it should learn from, and a plan for the examples you'll measure it on. **Who it's for:** anyone who **owns** an agent and can see its settings, logs and history: a coding harness, a chat assistant, a framework app, a DSPy or Ax program, a no-code workflow. **Time:** about 30–60 minutes for one agent. **Not for** auditing an agent someone else runs; that needs access and judgment the templates can't supply. If that's what you need, get in touch (siaalias-1.cardstock710@simplelogin.com · peleke.me · LinkedIn).
 
 The loop has four steps: **act → signal → search → apply.** Three of them are slots you choose: the signal, the search, and the artifact the search changes. The learning check finds the slot that's missing; the signal card picks the signal.
 
@@ -51,6 +51,6 @@ The bundled example is a real experiment from [our example pipeline](docs/exampl
 The templates work on their own. Agent versions of the checks live in [brunnr](https://github.com/Peleke/brunnr): [`learning-check`](https://github.com/Peleke/brunnr/tree/main/skills/learning-check), [`signal-card`](https://github.com/Peleke/brunnr/tree/main/skills/signal-card). A `gold-set` skill isn't published yet; use the template. They're standard `SKILL.md` folders: copy one into your agent's skills directory. Each skill's report ends with recommendations you can file as issues.
 
 ## Series and help
-peleke.me · LinkedIn
+siaalias-1.cardstock710@simplelogin.com · peleke.me · LinkedIn
 
 *Drafted with AI assistance, edited by me. The worked examples were filled by an AI agent and checked by a person.*
